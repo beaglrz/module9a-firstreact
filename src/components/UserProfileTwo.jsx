@@ -1,8 +1,7 @@
-// src/components/UserProfile.jsx
-function UserProfile() {
-  const name = "Beatriz Galarza";
-  const bio = "I’m learning React using Vite and building reusable components.";
-  const profileImage = "https://bsg-module9a-firstreact.s3.us-east-1.amazonaws.com/d8UbxF.jpg";
+function UserProfileTwo() {
+  const name = "Student Two";
+  const bio = "Learning React =)";
+  const profileImage = "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e?w=150&h=150&fit=crop";
 
   return (
     <div style={{ maxWidth: "400px", margin: "20px auto", padding: "24px", borderRadius: "12px", boxShadow: "0 2px 10px rgba(0, 0, 0, 0.1)", backgroundColor: "white", fontFamily: "Arial, sans-serif", textAlign: "center" }}>
@@ -13,4 +12,4 @@ function UserProfile() {
   );
 }
 
-export default UserProfile;
+export default UserProfileTwo;
