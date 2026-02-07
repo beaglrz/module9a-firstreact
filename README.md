@@ -14,5 +14,4 @@ At first, I got confused when I tried to upload my project to GitHub because my 
 
 
 ## Screenshot
-Add a screenshot of your rendered component (you can drag and drop it here if using GitHub web interface).
-  
+<img width="2880" height="1824" alt="image" src="https://github.com/user-attachments/assets/bc178525-cf26-4785-89a7-3e785d8f8481" />
