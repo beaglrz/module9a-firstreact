@@ -14,4 +14,5 @@ At first, I got confused when I tried to upload my project to GitHub because my 
 
 
 ## Screenshot
-<img width="2880" height="1824" alt="image" src="https://github.com/user-attachments/assets/bc178525-cf26-4785-89a7-3e785d8f8481" />
+<img width="3004" height="1824" alt="image" src="https://github.com/user-attachments/assets/7f53b1cf-3769-4f51-9bc2-091238af0748" />
+
